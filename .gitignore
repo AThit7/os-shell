@@ -1,0 +1,23 @@
+# Compiled languages
+*.o
+*.so
+*.a
+.*.d
+shell
+
+# Python
+*.pyc
+
+# Vim
+*.swp
+*~
+
+# Other files
+*.log
+
+# Archives
+*.tar.gz
+*.tgz
+
+# ccls
+.ccls-cache/
